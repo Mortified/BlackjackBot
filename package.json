@@ -1,0 +1,11 @@
+{
+  "name": "Streakybot",
+  "version": "0.0.1",
+  "description": "Experimental Bot",
+  "main": "bot.js",
+  "author": "Oliver Bowden",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "mysql": "^2.18.0"
+  }
+}
